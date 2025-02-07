@@ -1,9 +1,7 @@
-# Project-Portfolio
-
 ### Data Scienctist | Data Analyst | BI
 
 ### Education
-Acturial Science
+Actuarial Science
 
 ### Work Experience
 Operational Manager @ Zurich Santander Seguros MX
